@@ -1,0 +1,4 @@
+C:/Users/mozhe/Desktop/Game/1A2B/cmake-build-debug/CMakeFiles/1A2B.dir
+C:/Users/mozhe/Desktop/Game/1A2B/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mozhe/Desktop/Game/1A2B/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/mozhe/Desktop/Game/1A2B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
